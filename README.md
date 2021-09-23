@@ -8,3 +8,4 @@ In terms of my coursework, I am currently taking J025 and am using this page to 
 
 ![](https://thebrownandwhite.com/wp-content/uploads/2021/09/92921-Bootcamp-Headshot_24-1-200x300.jpg)
 ### [Read my work here.](https://thebrownandwhite.com/?s=deirdre+kelshaw)
+![](https://github.com/dkelshaw/dkelshaw.github.io/blob/main/GitHub%20Graphic.png?raw=true)
