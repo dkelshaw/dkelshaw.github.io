@@ -8,4 +8,7 @@ In terms of my coursework, I am currently taking J025 and am using this page to 
 
 ![](https://thebrownandwhite.com/wp-content/uploads/2021/09/92921-Bootcamp-Headshot_24-1-200x300.jpg)
 ### [Read my work here.](https://thebrownandwhite.com/?s=deirdre+kelshaw)
+First Year College Populations
+Source: _Lehigh University Office of Institutional Research and Strategic Analytics_
 ![](https://github.com/dkelshaw/dkelshaw.github.io/blob/main/GitHub%20Graphic.png?raw=true)
+This inforgraphic shows the various freshmen populations of Lehigh University's numerous schools. While many would think that Lehigh's school of engineering would yield the highest numbers, I was surprised to see that the College of Arts and Sciences actually has the largest first-year population.
