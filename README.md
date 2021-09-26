@@ -16,7 +16,7 @@ This inforgraphic shows the various freshmen populations of Lehigh University's 
 # Dropout Rates Across the Country
 ## Source: ["‘A dereliction of duty’: The college dropout scandal — and how to fix it"](https://www.washingtonpost.com/education/2019/09/10/a-dereliction-duty-college-dropout-scandal-how-fix-it/) by Valerie Strauss
 <img src="https://github.com/dkelshaw/dkelshaw.github.io/blob/main/J25%20Infographic%20Assignment.png?raw=true" width="300" height="700" />
-This infographic summarizes the most important data discussed in an interview with David Kirp, a professor of public policy at the University of California at Berkeley and the author of "The College Dropout Scandal." He discusses the demographic of students who dropout of college, based on the type of college they go to, their ethnicity, their financial situations, etc. The percentages included in the infographic were taken from his interview with _The Washington Post_. 
+This infographic summarizes the most important data discussed in an interview with David Kirp, a professor of public policy at the University of California at Berkeley and the author of "The College Dropout Scandal." He discusses the demographic of students who dropout of college, based on the type of college they go to, their ethnicity, their financial situations, etc. The percentages included in the infographic were taken from his interview with *The Washington Post*. 
 
 
 The bar chart data was collected from a separate interview Kirp did with [_EdSource_](https://edsource.org/2019/national-college-dropout-rates-are-a-scandal-uc-author-says/616248).
