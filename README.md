@@ -12,6 +12,7 @@ In terms of my coursework, I am currently taking J025 and am using this page to 
 ## Source: _Lehigh University Office of Institutional Research and Strategic Analytics_
 <img src="https://github.com/dkelshaw/dkelshaw.github.io/blob/main/GitHub%20Graphic.png?raw=true" width="400" height="600" />
 This inforgraphic shows the various freshmen populations of Lehigh University's numerous schools. While many would think that Lehigh's school of engineering would yield the highest numbers, I was surprised to see that the College of Arts and Sciences actually has the largest first-year population. This finding shows that the engineering population at Lehigh is declining while more liberal arts focused areas are on the rise.
+
 # Dropout Rates Across the Country
 ## Source: _‘A dereliction of duty’: The college dropout scandal — and how to fix it_ by Valerie Strauss
 <img src="https://github.com/dkelshaw/dkelshaw.github.io/blob/main/J25%20Infographic%20Assignment.png?raw=true" width="300" height="700" />
