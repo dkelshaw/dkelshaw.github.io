@@ -24,4 +24,8 @@ This infographic summarizes the most important data discussed in an interview wi
 The bar chart data was collected from a separate interview Kirp did with [EdSource](https://edsource.org/2019/national-college-dropout-rates-are-a-scandal-uc-author-says/616248).
 This chart shows the distinction between graduation rates at a private vs. public university. Kirp's most important findings include that over 40% of undergraduates drop out of college, more people of color drop out of college and more people drop out from public universities than from private universities. Based on these findings, individuals with these backgrounds are all more likely to drop out of college. These hold concerning problems for primarily public institutions and their state governments. Hopefully this data can serve as a tool to both of these institutions in order to bring about change for their students so that they can get the equal opportunity of graduation and receiving a full education.
 
+# Timeline Project
+## Source: [The Rivalry (Lafayette–Lehigh)](https://en.wikipedia.org/wiki/The_Rivalry_(Lafayette%E2%80%93Lehigh))
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1l4vMaMHkORJJtwKjjL4ACYXf_rmK2qDn-foL7qna4WM&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
+
+This timeline follows the series of events that have occured throughout the history of the Le-Laf footballrivalry-- a historic competitiveness in which both schools strive to be the best institution in the Lehigh Valley. 
