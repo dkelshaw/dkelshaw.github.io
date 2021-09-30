@@ -28,4 +28,4 @@ This chart shows the distinction between graduation rates at a private vs. publi
 ## Source: [The Rivalry (Lafayette–Lehigh)](https://en.wikipedia.org/wiki/The_Rivalry_(Lafayette%E2%80%93Lehigh))
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1l4vMaMHkORJJtwKjjL4ACYXf_rmK2qDn-foL7qna4WM&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
-This timeline follows the series of events that have occured throughout the history of the Le-Laf footballrivalry-- a historic competitiveness in which both schools strive to be the best institution in the Lehigh Valley. 
+This timeline follows the series of events that have occured throughout the history of the Le-Laf football rivalry-- a historic competitiveness in which both schools strive to be the best institution in the Lehigh Valley. 
