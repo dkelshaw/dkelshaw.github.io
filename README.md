@@ -30,7 +30,7 @@ This chart shows the distinction between graduation rates at a private vs. publi
 
 This timeline follows the series of events that have occured throughout the history of the Le-Laf football rivalry-- a historic competition in which both schools strive to be the best in the Lehigh Valley. 
 
-# A Brief Hisotry of U.S. Environmental Policies
+# A Brief History of U.S. Environmental Policies
 ## Source: [A brief timeline of U.S. climate pledges made, and discarded](https://www.latimes.com/environment/story/2021-04-22/three-decades-of-us-climate-pledges-and-inaction)
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1Dtm5b93QLCu4JNpCbLdfLk2CMqqJ9zGzgIkLLd56638&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
