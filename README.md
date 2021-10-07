@@ -35,3 +35,9 @@ This timeline follows the series of events that have occured throughout the hist
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1Dtm5b93QLCu4JNpCbLdfLk2CMqqJ9zGzgIkLLd56638&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
 The information provided in the above timeline follows the changing patterns of climate change policies based on the country's prior and present presidents. Climate change impacts not only the U.S. but the entire world. It's important that every country do their part in trying to reduce their carbon emissions by enacting policies. Change won't come without a leader who cares. Primarily, viewers of this timeline can see that most recent presidents in office have attempted to lead the country in the right direction by enacting climate change policies. However, we see some who prioritize other areas, such as President George W. Bush. Overall, this timeline gives a peak into the types of political environments that existed prior to present day.
+
+# 
+This is a bar cart created using Chartbuilder showing the world's richest countreis, Original data can be accesseed her ![https://docs.google.com/spreadsheets/d/1ipWL_vKE0S6-gD9qyI_7OE4lF9K_z-VjiNqMoeMmB6c/edit#gid=1713093800]
+https://github.com/dkelshaw/dkelshaw.github.io/blob/main/The_World's_Richest_Countries_GPD_chartbuilder.png?raw=true
+
+#
