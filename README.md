@@ -36,9 +36,9 @@ This timeline follows the series of events that have occured throughout the hist
 
 The information provided in the above timeline follows the changing patterns of climate change policies based on the country's prior and present presidents. Climate change impacts not only the U.S. but the entire world. It's important that every country do their part in trying to reduce their carbon emissions by enacting policies. Change won't come without a leader who cares. Primarily, viewers of this timeline can see that most recent presidents in office have attempted to lead the country in the right direction by enacting climate change policies. However, we see some who prioritize other areas, such as President George W. Bush. Overall, this timeline gives a peak into the types of political environments that existed prior to present day.
 
-# 
-This is a bar cart created using Chartbuilder showing the world's richest countreis, Original data can be accesseed her ![https://docs.google.com/spreadsheets/d/1ipWL_vKE0S6-gD9qyI_7OE4lF9K_z-VjiNqMoeMmB6c/edit#gid=1713093800]
-https://github.com/dkelshaw/dkelshaw.github.io/blob/main/The_World's_Richest_Countries_GPD_chartbuilder.png?raw=true
+# Telling Stories with Charts 
+![What were the percentages of students in each of Lehigh's undergraduate colleges in 2019?](https://github.com/dkelshaw/dkelshaw.github.io/blob/main/The_World's_Richest_Countries_GPD_chartbuilder.png?raw=true)
+This is a bar cart created using Chartbuilder showing the world's richest countreis, Original data can be accesseed here ![https://docs.google.com/spreadsheets/d/1ipWL_vKE0S6-gD9qyI_7OE4lF9K_z-VjiNqMoeMmB6c/edit#gid=1713093800]
 
 # 2019 Undergraduate College Enrollment
 ![What were the percentages of students in each of Lehigh's undergraduate colleges in 2019?](https://github.com/dkelshaw/dkelshaw.github.io/blob/main/Lehigh_College_Enrollment_2019_Percent_of_Undergraduate_Enrollment_chartbuilder.png?raw=true)
