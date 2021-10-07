@@ -41,4 +41,4 @@ This is a bar cart created using Chartbuilder showing the world's richest countr
 https://github.com/dkelshaw/dkelshaw.github.io/blob/main/The_World's_Richest_Countries_GPD_chartbuilder.png?raw=true
 
 # 2019 Undergraduate College Enrollment
-![What were the percentages of students in each of Lehigh's undergraduate colleges in 2019?] (https://github.com/dkelshaw/dkelshaw.github.io/blob/main/Lehigh_College_Enrollment_2019_Percent_of_Undergraduate_Enrollment_chartbuilder.png?raw=true) 
+![What were the percentages of students in each of Lehigh's undergraduate colleges in 2019?](https://github.com/dkelshaw/dkelshaw.github.io/blob/main/Lehigh_College_Enrollment_2019_Percent_of_Undergraduate_Enrollment_chartbuilder.png?raw=true)
