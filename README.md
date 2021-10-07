@@ -38,7 +38,7 @@ The information provided in the above timeline follows the changing patterns of 
 
 # Telling Stories with Charts 
 ![What were the percentages of students in each of Lehigh's undergraduate colleges in 2019?](https://github.com/dkelshaw/dkelshaw.github.io/blob/main/The_World's_Richest_Countries_GPD_chartbuilder.png?raw=true)
-This is a bar cart created using Chartbuilder showing the world's richest countreis, Original data can be accesseed ![here][https://docs.google.com/spreadsheets/d/1ipWL_vKE0S6-gD9qyI_7OE4lF9K_z-VjiNqMoeMmB6c/edit#gid=1713093800]
+This is a bar cart created using Chartbuilder showing the world's richest countreis, Original data can be accesseed ![here](https://docs.google.com/spreadsheets/d/1ipWL_vKE0S6-gD9qyI_7OE4lF9K_z-VjiNqMoeMmB6c/edit#gid=1713093800)
 
 # 2019 Undergraduate College Enrollment
 ![What were the percentages of students in each of Lehigh's undergraduate colleges in 2019?](https://github.com/dkelshaw/dkelshaw.github.io/blob/main/Lehigh_College_Enrollment_2019_Percent_of_Undergraduate_Enrollment_chartbuilder.png?raw=true)
