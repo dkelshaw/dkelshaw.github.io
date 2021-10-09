@@ -44,3 +44,6 @@ This is a bar chart created by using Chartbuilder. This chart shows the world's 
 ![What were the percentages of students in each of Lehigh's undergraduate colleges in 2019?](https://github.com/dkelshaw/dkelshaw.github.io/blob/main/Lehigh_College_Enrollment_2019_Percent_of_Undergraduate_Enrollment_chartbuilder.png?raw=true)
 
 The information above shows the number of undergraduates who enrolled in each college at Lehigh in fall 2019. Overall, the College of Arts and Sciences had the greatest population size-- 36.6% of students enrolled in the school. I find this interesting as Lehigh is known for its large engineering population. However, it seems that recently, those numbers have decreased and enrollment is not as prominant as it once was. This data may portray the transition of undergraduate enrollments at Lehigh.
+
+# Class of 2024 SAT Profile
+![What were the SAT Scores Among Lehigh 2024 Applicants and Admits?](
