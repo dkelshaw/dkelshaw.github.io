@@ -50,7 +50,10 @@ The information above shows the number of undergraduates who enrolled in each co
 
 This bar chart displays the SAT scores recorded from Lehigh University class of 2024 applicants and admits. Overall, we can see that most students who applied to Lehigh and took the SAT, and were accepted, received high scores between 1400-1490. Students who scored between an 1100-1190 had the smallest acceptance rate into the university. Based on this information, we can better understand the competitiveness of Lehigh admission, along with the average profile of Lehigh applicants and admits. Original data can be accessed [here](https://docs.google.com/spreadsheets/d/10L2Rqft2SU3KyMGJrCbl_45hu9D_n0fd_zazAPLImoA/edit?usp=sharing).
 
-# Lehigh University College Enrollment Over Time
+# Line Chart - Lehigh University College Enrollment Over Time
 ![Fall 2017 - Fall 2021 Institutional Profile](https://github.com/dkelshaw/dkelshaw.github.io/blob/main/Fall_2017_-_Fall_2021_Institutional_Profile_Arts_&_Sciences_Business_Engineering_chartbuilder.png?raw=true)
 
 This line chart shows the changes in undergraduate enrollment at Lehig University over the past five years. Based on this data, we can see that enrollment in the Business school has remained almost consistent throughout the past five years. Enrollment in the Engineering school, on the other hand, has decreased over time. Lastly, enrollment in the College of Arts & Sciences has increased over time. Overall, this data shows the changing student identity at Lehigh. While Lehigh is known for its high population of engineering students, it seems that that may be changing. The original data can be found [here](https://docs.google.com/spreadsheets/d/1-j4-QhE8xwccFXr7V54vsVVNE1ya93jGldg6Z34YATU/edit?usp=sharing).
+
+# Scatter Plot - Looking at the Connection Between Happiness and GDP per Country
+[2017 Life Satisfication vs. GDP per capita](https://github.com/dkelshaw/dkelshaw.github.io/blob/main/Self-reported_Life_Satisfaction_vs._GDP_per_capita,_2017_Life_satisfaction_in_Cantril_Ladder_(World_Happiness_Report_2019)_chartbuilder.png?raw=true)
