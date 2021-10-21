@@ -68,3 +68,5 @@ In order to better understand how the frequency of natural disasters has changed
 # Telling Stories about Spaces-Geolocation Data
 ## 2019 World's Top 20 Cycling Cities
 <iframe src="https://www.google.com/maps/d/embed?mid=1B9QMDPuuH4MOSe3TbeTAHdGthRYF7tCl" width="640" height="480"></iframe>
+
+These are the 20 most bike-friendly cities on the planet, ranked by Wired. For more information, click [here](https://www.wired.com/2015/06/copenhagenize-worlds-most-bike-friendly-cities/).
