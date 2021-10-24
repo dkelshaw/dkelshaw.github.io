@@ -70,3 +70,8 @@ In order to better understand how the frequency of natural disasters has changed
 <iframe src="https://www.google.com/maps/d/embed?mid=1B9QMDPuuH4MOSe3TbeTAHdGthRYF7tCl" width="640" height="480"></iframe>
 
 These are the 20 most bike-friendly cities on the planet, ranked by Wired. For more information, click [here](https://www.wired.com/2015/06/copenhagenize-worlds-most-bike-friendly-cities/).
+
+## The Top 15 Most Sustainable Cities in America
+<iframe src="https://www.google.com/maps/d/embed?mid=1DAQt7PUkbB7A0m9yKNLpjUvg4SF2rAyh" width="640" height="480"></iframe>
+
+These are the 15 most eco-friendly cities in the United States, ranked by Rocket Homes. Based on this map, it seems that most environmentally-focused cities in America are located on the West Coast. In comparison, there are few in the middle of the country and some on the East Coast. In this way, sustainable citites are not equally distributed based on location and there is much more work to be done so that more American cities can help better our planet. Everyone has the responsibility. This ranking is important as it can allow leaders in other American cities/states to look at what the most environmentally-consious cities are doing, and they can use it as a guide or inspiration for what their own cities can be doing. For more information, click [here](https://www.rockethomes.com/blog/housing-market/most-sustainable-cities-in-the-us). 
